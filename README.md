@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RU-serious
-- 👀 I’m interested in Cyber Security and making security tools.
-- 🌱 I’m currently learning about Web app security and whatever else intrest me.  
-- 💞️ I’m looking to collaborate on helping small to mid sized businesses secure their information.
+- 👀 I’m interested in Cyber Security, Web Development, Block chain, and AI.
+- 🌱 I’m currently learning about Web development and Block chain.  
+- 💞️ I’m looking to collaborate on blockchain and Backend development projects.
 - 📫 How to reach me at CyberSec20@protonmail.com
 
 <!---
